@@ -1,4 +1,4 @@
-# budweiser_attrition
+# Attrition at Budweiser
 Discovering most important factors/attributes that led to attrition at Budweiser.
 
 ## Data Description
