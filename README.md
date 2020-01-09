@@ -1,5 +1,5 @@
 # Attrition at Budweiser
-Discovering most important factors/attributes that led to attrition at Budweiser.
+Discovering most important factors/attributes that led to attrition at Budweiser. Goal of this project is to highly most influential attributes, leading to attrition. Following that will be a presentation in front of Budweiser's CFO and HR department.
 
 ## Data Description
 
